@@ -1,0 +1,6 @@
+{
+  "name": "RecipeMaster",
+  "description": "Full-stack MERN recipe management and smart pantry meal planning platform with intelligent ingredient matching and meal scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

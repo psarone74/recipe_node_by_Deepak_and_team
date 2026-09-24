@@ -1,0 +1,67 @@
+[
+  {
+    "_id": "rm_omdtefsrimufbmbuq",
+    "userId": "user_chef_roshan",
+    "ingredient": "chicken",
+    "quantity": "1",
+    "unit": "pcs",
+    "category": "Produce",
+    "checked": false,
+    "recipeOrigin": "Manual Entry",
+    "estimatedPrice": 2.5,
+    "createdAt": "2026-09-24T09:19:50.402Z",
+    "updatedAt": "2026-09-24T09:19:50.402Z"
+  },
+  {
+    "_id": "rm_hlon1ars9mufb1zop",
+    "userId": "user_chef_roshan",
+    "ingredient": "Avocado",
+    "quantity": 2,
+    "unit": "pieces",
+    "category": "Produce",
+    "checked": false,
+    "recipeOrigin": "Artisan Avocado Toast",
+    "estimatedPrice": 3,
+    "createdAt": "2026-09-24T09:04:01.513Z",
+    "updatedAt": "2026-09-24T09:04:01.513Z"
+  },
+  {
+    "_id": "rm_w5pyporvvmufb1zoo",
+    "userId": "user_chef_roshan",
+    "ingredient": "Parmesan",
+    "quantity": 50,
+    "unit": "grams",
+    "category": "Dairy",
+    "checked": true,
+    "recipeOrigin": "Tuscan Rigatoni",
+    "estimatedPrice": 3.99,
+    "createdAt": "2026-09-24T09:04:01.512Z",
+    "updatedAt": "2026-09-24T09:04:01.512Z"
+  },
+  {
+    "_id": "rm_c9sbpgehfmufb1zon",
+    "userId": "user_chef_roshan",
+    "ingredient": "Fresh Basil",
+    "quantity": 1,
+    "unit": "bunch",
+    "category": "Produce",
+    "checked": false,
+    "recipeOrigin": "Tuscan Rigatoni",
+    "estimatedPrice": 2.25,
+    "createdAt": "2026-09-24T09:04:01.511Z",
+    "updatedAt": "2026-09-24T09:04:01.511Z"
+  },
+  {
+    "_id": "rm_i6mmnkrsomufb1zon",
+    "userId": "user_chef_roshan",
+    "ingredient": "Gruyère Cheese",
+    "quantity": 100,
+    "unit": "grams",
+    "category": "Dairy",
+    "checked": false,
+    "recipeOrigin": "Farmhouse Herb & Potato Omelette",
+    "estimatedPrice": 4.5,
+    "createdAt": "2026-09-24T09:04:01.511Z",
+    "updatedAt": "2026-09-24T09:04:01.511Z"
+  }
+]

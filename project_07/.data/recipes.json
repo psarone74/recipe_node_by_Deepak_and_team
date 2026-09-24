@@ -1,0 +1,574 @@
+[
+  {
+    "title": "Spanish Chicken (Imported)",
+    "description": "Authentic Spanish Chicken curated from TheMealDB culinary archives.",
+    "image": "https://www.themealdb.com/images/media/meals/pqulvm1763282839.jpg",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Chicken Thighs",
+        "quantity": "8",
+        "unit": "unit",
+        "aisle": "Meat"
+      },
+      {
+        "name": "Onion",
+        "quantity": "3",
+        "unit": "sliced thinly",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Paprika",
+        "quantity": "2",
+        "unit": "teaspoons",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "Zest and juice of 1",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Parsley",
+        "quantity": 1,
+        "unit": "Handful",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Chicken Stock",
+        "quantity": "150",
+        "unit": "ml",
+        "aisle": "Meat"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": "1",
+        "unit": "tablespoon",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Heat oven to 190C/170C fan/gas 5. Put all the ingredients into a large, wide ovenproof dish. Mix everything together with your hands and season.",
+      "Bake for 45 mins, stirring the onions after 20 mins, until the chicken is golden and the onions tender. Serve with rice."
+    ],
+    "cuisine": "Spanish",
+    "category": "Chicken",
+    "difficulty": "Easy",
+    "prepTime": 15,
+    "cookTime": 25,
+    "servings": 4,
+    "tags": [
+      "Chicken",
+      "Spanish",
+      "International"
+    ],
+    "dietaryType": "Non-Vegetarian",
+    "isExternal": false,
+    "externalSourceUrl": "https://www.bbcgoodfood.com/recipes/spanish-chicken",
+    "createdAt": "2026-09-24T09:18:45.377Z",
+    "updatedAt": "2026-09-24T09:18:45.377Z"
+  },
+  {
+    "_id": "rec_paneer_06",
+    "title": "North Indian Paneer Butter Masala",
+    "description": "Tender cubes of Indian cottage cheese bathed in a silky, aromatic cashew and tomato gravy infused with green cardamom, kasuri methi, and butter.",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?w=800&auto=format&fit=crop",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Paneer",
+        "quantity": 250,
+        "unit": "grams",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 4,
+        "unit": "pureed",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "finely chopped",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Butter",
+        "quantity": 30,
+        "unit": "grams",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Cream",
+        "quantity": 3,
+        "unit": "tbsp",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 3,
+        "unit": "cloves",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Garam Masala",
+        "quantity": 1,
+        "unit": "tsp",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Melt butter in a heavy kadai or Dutch oven. Sauté onions and minced garlic until light golden.",
+      "Pour in fresh tomato puree and spices. Cook until oil begins to separate from the gravy edges (about 8 minutes).",
+      "Whisk in cashew paste and fresh cream to create a rich velvety texture.",
+      "Gently fold in fresh paneer cubes and simmer on low heat for 5 minutes so flavours infuse.",
+      "Crush dried fenugreek leaves (kasuri methi) between palms over the curry and finish with a knob of butter."
+    ],
+    "cuisine": "Indian",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "prepTime": 15,
+    "cookTime": 20,
+    "servings": 4,
+    "tags": [
+      "Vegetarian",
+      "Curry",
+      "Restaurant Quality",
+      "Gluten-Free"
+    ],
+    "dietaryType": "Vegetarian",
+    "calories": 480,
+    "createdAt": "2026-09-24T08:26:25.626Z",
+    "updatedAt": "2026-09-24T08:26:25.626Z"
+  },
+  {
+    "_id": "rec_toast_05",
+    "title": "Artisan Avocado Toast with Poached Egg",
+    "description": "Toasted country sourdough topped with coarse-smashed Hass avocado, Meyer lemon zest, microgreens, and a soft farm-fresh poached egg.",
+    "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&auto=format&fit=crop",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Sourdough Bread",
+        "quantity": 2,
+        "unit": "slices",
+        "aisle": "Bakery"
+      },
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": "ripe",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Egg",
+        "quantity": 2,
+        "unit": "fresh",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 0.5,
+        "unit": "squeezed",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Chili Flakes",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Toast thick slices of artisan sourdough until golden and crisp.",
+      "In a shallow bowl, smash avocado with lemon juice, sea salt, and a dash of extra virgin olive oil.",
+      "Bring a small pot of water to a gentle simmer with a drop of vinegar. Create a gentle whirlpool and slip in cracked eggs.",
+      "Poach for 3 minutes until whites are firm and yolk is warm and runny.",
+      "Spread avocado generously over toast, crown each with a poached egg, sprinkle red chili flakes and flaky sea salt."
+    ],
+    "cuisine": "Modern American",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "prepTime": 5,
+    "cookTime": 5,
+    "servings": 2,
+    "tags": [
+      "Brunch",
+      "Vegetarian",
+      "Quick Prep"
+    ],
+    "dietaryType": "Vegetarian",
+    "calories": 340,
+    "createdAt": "2026-09-24T08:26:25.626Z",
+    "updatedAt": "2026-09-24T08:26:25.626Z"
+  },
+  {
+    "_id": "rec_salmon_04",
+    "title": "Crispy Skin Salmon & Quinoa Bowl",
+    "description": "Pan-seared Atlantic salmon fillet with shatteringly crisp skin served over fluffy lemon quinoa, cucumber ribbons, and creamy avocado.",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&auto=format&fit=crop",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Salmon Fillet",
+        "quantity": 2,
+        "unit": "pieces (6oz)",
+        "aisle": "Seafood"
+      },
+      {
+        "name": "Quinoa",
+        "quantity": 1,
+        "unit": "cup",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": "sliced",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": "medium",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "juiced",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Rinse quinoa and simmer in 2 cups of water with a pinch of salt for 15 minutes until tender and fluffy.",
+      "Pat salmon skin completely dry with paper towels; score lightly and season generously with salt.",
+      "Heat a cast iron skillet over medium-high heat with olive oil.",
+      "Place salmon skin-side down, pressing gently for 30 seconds. Cook for 5 minutes until skin is golden crisp.",
+      "Flip and finish cooking for 2-3 minutes. Plate quinoa in bowls, top with sliced avocado, cucumber ribbons, and crispy salmon."
+    ],
+    "cuisine": "Mediterranean",
+    "category": "Dinner",
+    "difficulty": "Medium",
+    "prepTime": 15,
+    "cookTime": 15,
+    "servings": 2,
+    "tags": [
+      "Omega-3",
+      "High-Protein",
+      "Keto-Friendly",
+      "Pescatarian"
+    ],
+    "dietaryType": "Non-Vegetarian",
+    "calories": 520,
+    "createdAt": "2026-09-24T08:26:25.626Z",
+    "updatedAt": "2026-09-24T08:26:25.626Z"
+  },
+  {
+    "_id": "rec_friedrice_03",
+    "title": "Quick Pantry Fried Rice",
+    "description": "A 15-minute weeknight wok classic using day-old jasmine rice, scrambled eggs, green onions, soy sauce, and aromatic sesame oil.",
+    "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&auto=format&fit=crop",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Rice",
+        "quantity": 3,
+        "unit": "cups cooked",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Egg",
+        "quantity": 2,
+        "unit": "large",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "diced",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 2,
+        "unit": "cloves",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Soy Sauce",
+        "quantity": 2,
+        "unit": "tbsp",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Sesame Oil",
+        "quantity": 1,
+        "unit": "tsp",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Break up chilled jasmine rice with wet fingertips.",
+      "Heat a wok or large skillet on high heat with a tablespoon of oil.",
+      "Scramble eggs quickly and push to the side of the pan.",
+      "Add onions and minced garlic; stir-fry for 1 minute until fragrant.",
+      "Dump in cold rice and stir-fry continuously on high heat for 3-4 minutes.",
+      "Drizzle soy sauce and toasted sesame oil around the rim of the wok; toss vigorously and serve hot."
+    ],
+    "cuisine": "Asian",
+    "category": "Lunch",
+    "difficulty": "Easy",
+    "prepTime": 5,
+    "cookTime": 10,
+    "servings": 2,
+    "tags": [
+      "Quick",
+      "Pantry Friendly",
+      "Budget Friendly"
+    ],
+    "dietaryType": "Vegetarian",
+    "calories": 410,
+    "createdAt": "2026-09-24T08:26:25.626Z",
+    "updatedAt": "2026-09-24T08:26:25.626Z"
+  },
+  {
+    "_id": "rec_pasta_02",
+    "title": "Tuscan Rigatoni with Basil Pomodoro",
+    "description": "Al dente bronze-cut rigatoni tossed in a vibrant simmered San Marzano tomato pomodoro, golden garlic, fresh sweet basil, and aged parmigiano.",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3d5d6281691?w=800&auto=format&fit=crop",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Rigatoni Pasta",
+        "quantity": 300,
+        "unit": "grams",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Tomato",
+        "quantity": 4,
+        "unit": "ripe",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Garlic",
+        "quantity": 4,
+        "unit": "cloves",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 3,
+        "unit": "tbsp",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Fresh Basil",
+        "quantity": 1,
+        "unit": "handful",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Parmesan",
+        "quantity": 40,
+        "unit": "grams",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Salt",
+        "quantity": 1,
+        "unit": "tsp",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Bring a large pot of heavily salted water to a rolling boil. Cook rigatoni until 1 minute shy of al dente.",
+      "In a wide heavy skillet, heat olive oil over medium-low heat. Add thinly sliced garlic and fry until fragrant and pale gold.",
+      "Add crushed tomatoes and a pinch of salt. Simmer gently for 12 minutes to thicken.",
+      "Toss cooked pasta directly into the sauce along with 1/4 cup starchy pasta water.",
+      "Stir vigorously to emulsify. Remove from heat, fold in hand-torn fresh basil and freshly grated parmesan."
+    ],
+    "cuisine": "Italian",
+    "category": "Dinner",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 20,
+    "servings": 3,
+    "tags": [
+      "Italian",
+      "Pasta",
+      "Vegetarian",
+      "Quick Dinner"
+    ],
+    "dietaryType": "Vegetarian",
+    "calories": 460,
+    "createdAt": "2026-09-24T08:26:25.626Z",
+    "updatedAt": "2026-09-24T08:26:25.626Z"
+  },
+  {
+    "_id": "rec_omelette_01",
+    "title": "Farmhouse Herb & Potato Omelette",
+    "description": "Fluffy country-style eggs folded with pan-crisped russet potatoes, sweet sautéed onions, fresh chives, and melted gruyère cheese.",
+    "image": "https://images.unsplash.com/photo-1510693206972-df098062cb71?w=800&auto=format&fit=crop",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Potato",
+        "quantity": 2,
+        "unit": "medium",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Egg",
+        "quantity": 4,
+        "unit": "large",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Onion",
+        "quantity": 1,
+        "unit": "medium",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Cheese",
+        "quantity": 50,
+        "unit": "grams",
+        "aisle": "Dairy"
+      },
+      {
+        "name": "Salt",
+        "quantity": 0.5,
+        "unit": "tsp",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Black Pepper",
+        "quantity": 0.25,
+        "unit": "tsp",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Dice potatoes into 1/2-inch cubes and thinly slice onions.",
+      "Heat olive oil in a 10-inch skillet over medium heat. Fry potatoes until golden and tender (approx. 8 minutes).",
+      "Add sliced onions and cook for another 3 minutes until translucent.",
+      "Whisk eggs with salt and freshly cracked black pepper in a medium bowl.",
+      "Pour eggs gently over the hot potatoes and onions. Reduce heat to low.",
+      "Cook slowly until eggs are set around edges, sprinkle cheese on top, fold gently and serve warm."
+    ],
+    "cuisine": "French",
+    "category": "Breakfast",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 15,
+    "servings": 2,
+    "tags": [
+      "High-Protein",
+      "Gluten-Free",
+      "Classic",
+      "Farmhouse"
+    ],
+    "dietaryType": "Vegetarian",
+    "calories": 380,
+    "createdAt": "2026-09-24T08:26:25.626Z",
+    "updatedAt": "2026-09-24T08:26:25.626Z"
+  },
+  {
+    "_id": "rec_chickpea_07",
+    "title": "Lemon Herb Chickpea & Avocado Power Bowl",
+    "description": "A 15-minute nourishing plant-based powerhouse featuring crisp spiced chickpeas, creamy diced avocado, Persian cucumbers, and zesty tahini-lemon dressing.",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?w=800&auto=format&fit=crop",
+    "author": "user_chef_roshan",
+    "authorName": "Chef Roshan",
+    "ingredients": [
+      {
+        "name": "Chickpeas",
+        "quantity": 1,
+        "unit": "can (15oz)",
+        "aisle": "Pantry"
+      },
+      {
+        "name": "Avocado",
+        "quantity": 1,
+        "unit": "ripe",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Cucumber",
+        "quantity": 1,
+        "unit": "medium",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Cherry Tomato",
+        "quantity": 8,
+        "unit": "halved",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Lemon",
+        "quantity": 1,
+        "unit": "juiced",
+        "aisle": "Produce"
+      },
+      {
+        "name": "Olive Oil",
+        "quantity": 2,
+        "unit": "tbsp",
+        "aisle": "Pantry"
+      }
+    ],
+    "instructions": [
+      "Rinse and thoroughly drain canned chickpeas; pat dry with paper towels.",
+      "Toss chickpeas in a bowl with 1 tbsp olive oil, sea salt, ground cumin, and smoked paprika.",
+      "Dice ripe avocado and Persian cucumbers, halve the sweet cherry tomatoes.",
+      "Whisk remaining olive oil with fresh lemon juice, tahini or mustard, salt and black pepper.",
+      "Assemble vegetables and spiced chickpeas in serving bowls, drizzle dressing, and enjoy fresh."
+    ],
+    "cuisine": "Mediterranean",
+    "category": "Lunch",
+    "difficulty": "Easy",
+    "prepTime": 10,
+    "cookTime": 5,
+    "servings": 2,
+    "tags": [
+      "Vegan",
+      "Quick",
+      "Gluten-Free",
+      "High-Protein"
+    ],
+    "dietaryType": "Vegan",
+    "calories": 390,
+    "createdAt": "2026-09-24T08:26:25.626Z",
+    "updatedAt": "2026-09-24T08:26:25.626Z"
+  }
+]

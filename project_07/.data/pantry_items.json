@@ -1,0 +1,156 @@
+[
+  {
+    "_id": "rm_h8cioakzymufb1zol",
+    "userId": "user_chef_roshan",
+    "ingredient": "Sesame Oil",
+    "quantity": 150,
+    "unit": "ml",
+    "category": "Pantry",
+    "expiryDate": "2027-05-20",
+    "createdAt": "2026-09-24T09:04:01.509Z",
+    "updatedAt": "2026-09-24T09:04:01.509Z"
+  },
+  {
+    "_id": "rm_6qa003d9fmufb1zok",
+    "userId": "user_chef_roshan",
+    "ingredient": "Lemon",
+    "quantity": 2,
+    "unit": "pieces",
+    "category": "Produce",
+    "expiryDate": "2026-10-08",
+    "createdAt": "2026-09-24T09:04:01.508Z",
+    "updatedAt": "2026-09-24T09:04:01.508Z"
+  },
+  {
+    "_id": "rm_6ax1mpmxvmufb1zok",
+    "userId": "user_chef_roshan",
+    "ingredient": "Sourdough Bread",
+    "quantity": 1,
+    "unit": "loaf",
+    "category": "Bakery",
+    "expiryDate": "2026-09-30",
+    "createdAt": "2026-09-24T09:04:01.508Z",
+    "updatedAt": "2026-09-24T09:04:01.508Z"
+  },
+  {
+    "_id": "rm_aciqfe9gpmufb1zok",
+    "userId": "user_chef_roshan",
+    "ingredient": "Black Pepper",
+    "quantity": 1,
+    "unit": "shaker",
+    "category": "Pantry",
+    "expiryDate": "2027-12-01",
+    "createdAt": "2026-09-24T09:04:01.508Z",
+    "updatedAt": "2026-09-24T09:04:01.508Z"
+  },
+  {
+    "_id": "rm_ttgkf1jfdmufb1zok",
+    "userId": "user_chef_roshan",
+    "ingredient": "Salt",
+    "quantity": 1,
+    "unit": "box",
+    "category": "Pantry",
+    "expiryDate": "2028-01-01",
+    "createdAt": "2026-09-24T09:04:01.508Z",
+    "updatedAt": "2026-09-24T09:04:01.508Z"
+  },
+  {
+    "_id": "rm_3h2eeuwlkmufb1zok",
+    "userId": "user_chef_roshan",
+    "ingredient": "Rigatoni Pasta",
+    "quantity": 500,
+    "unit": "grams",
+    "category": "Pantry",
+    "expiryDate": "2027-04-10",
+    "createdAt": "2026-09-24T09:04:01.508Z",
+    "updatedAt": "2026-09-24T09:04:01.508Z"
+  },
+  {
+    "_id": "rm_95zzwg1eimufb1zoj",
+    "userId": "user_chef_roshan",
+    "ingredient": "Tomato",
+    "quantity": 3,
+    "unit": "pieces",
+    "category": "Produce",
+    "expiryDate": "2026-10-02",
+    "createdAt": "2026-09-24T09:04:01.507Z",
+    "updatedAt": "2026-09-24T09:04:01.507Z"
+  },
+  {
+    "_id": "rm_nffoppsdrmufb1zoj",
+    "userId": "user_chef_roshan",
+    "ingredient": "Soy Sauce",
+    "quantity": 250,
+    "unit": "ml",
+    "category": "Pantry",
+    "expiryDate": "2027-03-15",
+    "createdAt": "2026-09-24T09:04:01.507Z",
+    "updatedAt": "2026-09-24T09:04:01.507Z"
+  },
+  {
+    "_id": "rm_90ior9xmzmufb1zoj",
+    "userId": "user_chef_roshan",
+    "ingredient": "Rice",
+    "quantity": 1,
+    "unit": "kg",
+    "category": "Pantry",
+    "expiryDate": "2027-06-01",
+    "createdAt": "2026-09-24T09:04:01.507Z",
+    "updatedAt": "2026-09-24T09:04:01.507Z"
+  },
+  {
+    "_id": "rm_tz86qcfhlmufb1zoj",
+    "userId": "user_chef_roshan",
+    "ingredient": "Garlic",
+    "quantity": 1,
+    "unit": "bulb",
+    "category": "Produce",
+    "expiryDate": "2026-10-18",
+    "createdAt": "2026-09-24T09:04:01.507Z",
+    "updatedAt": "2026-09-24T09:04:01.507Z"
+  },
+  {
+    "_id": "rm_f4xkqx2w1mufb1zoi",
+    "userId": "user_chef_roshan",
+    "ingredient": "Olive Oil",
+    "quantity": 500,
+    "unit": "ml",
+    "category": "Pantry",
+    "expiryDate": "2027-01-01",
+    "createdAt": "2026-09-24T09:04:01.506Z",
+    "updatedAt": "2026-09-24T09:04:01.506Z"
+  },
+  {
+    "_id": "rm_9wj0fg8yfmufb1zoi",
+    "userId": "user_chef_roshan",
+    "ingredient": "Onion",
+    "quantity": 3,
+    "unit": "pieces",
+    "category": "Produce",
+    "expiryDate": "2026-10-20",
+    "createdAt": "2026-09-24T09:04:01.506Z",
+    "updatedAt": "2026-09-24T09:04:01.506Z"
+  },
+  {
+    "_id": "rm_5pem0fwftmufb1zoi",
+    "userId": "user_chef_roshan",
+    "ingredient": "Egg",
+    "quantity": 12,
+    "unit": "pack",
+    "category": "Dairy",
+    "expiryDate": "2026-10-05",
+    "createdAt": "2026-09-24T09:04:01.506Z",
+    "updatedAt": "2026-09-24T09:04:01.506Z"
+  },
+  {
+    "_id": "rm_0uyetryp7mufb1zoh",
+    "userId": "user_chef_roshan",
+    "ingredient": "Potato",
+    "quantity": 4,
+    "unit": "pieces",
+    "category": "Produce",
+    "expiryDate": "2026-10-15",
+    "createdAt": "2026-09-24T09:04:01.505Z",
+    "updatedAt": "2026-09-24T09:04:01.505Z"
+  }
+]

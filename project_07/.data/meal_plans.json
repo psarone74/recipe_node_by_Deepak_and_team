@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "rm_igmz8u3vcmufbl8fg",
+    "userId": "user_chef_roshan",
+    "recipeId": "rec_toast_05",
+    "recipeTitle": "Artisan Avocado Toast with Poached Egg",
+    "recipeImage": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&auto=format&fit=crop",
+    "cookTime": 5,
+    "calories": 340,
+    "date": "2026-09-21",
+    "mealType": "breakfast",
+    "notes": "",
+    "completed": false,
+    "createdAt": "2026-09-24T09:18:59.307Z",
+    "updatedAt": "2026-09-24T09:18:59.307Z"
+  },
+  {
+    "_id": "rm_376to13nsmufb1zor",
+    "userId": "user_chef_roshan",
+    "recipeId": "rec_salmon_04",
+    "recipeTitle": "Crispy Skin Salmon & Quinoa Bowl",
+    "recipeImage": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=800&auto=format&fit=crop",
+    "cookTime": 15,
+    "date": "2026-09-25",
+    "mealType": "dinner",
+    "calories": 520,
+    "createdAt": "2026-09-24T09:04:01.515Z",
+    "updatedAt": "2026-09-24T09:04:01.515Z"
+  },
+  {
+    "_id": "rm_u5t00s9x9mufb1zoq",
+    "userId": "user_chef_roshan",
+    "recipeId": "rec_toast_05",
+    "recipeTitle": "Artisan Avocado Toast with Poached Egg",
+    "recipeImage": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=800&auto=format&fit=crop",
+    "cookTime": 5,
+    "date": "2026-09-25",
+    "mealType": "breakfast",
+    "calories": 340,
+    "createdAt": "2026-09-24T09:04:01.514Z",
+    "updatedAt": "2026-09-24T09:04:01.514Z"
+  },
+  {
+    "_id": "rm_pl1yl2xmemufb1zoq",
+    "userId": "user_chef_roshan",
+    "recipeId": "rec_pasta_02",
+    "recipeTitle": "Tuscan Rigatoni with Basil Pomodoro",
+    "recipeImage": "https://images.unsplash.com/photo-1621996346565-e3d5d6281691?w=800&auto=format&fit=crop",
+    "cookTime": 20,
+    "date": "2026-09-24",
+    "mealType": "dinner",
+    "calories": 460,
+    "createdAt": "2026-09-24T09:04:01.514Z",
+    "updatedAt": "2026-09-24T09:04:01.514Z"
+  },
+  {
+    "_id": "rm_8f3cy83q7mufb1zop",
+    "userId": "user_chef_roshan",
+    "recipeId": "rec_friedrice_03",
+    "recipeTitle": "Quick Pantry Fried Rice",
+    "recipeImage": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=800&auto=format&fit=crop",
+    "cookTime": 10,
+    "date": "2026-09-24",
+    "mealType": "lunch",
+    "calories": 410,
+    "createdAt": "2026-09-24T09:04:01.513Z",
+    "updatedAt": "2026-09-24T09:04:01.513Z"
+  },
+  {
+    "_id": "rm_sm4cmdqx1mufb1zop",
+    "userId": "user_chef_roshan",
+    "recipeId": "rec_omelette_01",
+    "recipeTitle": "Farmhouse Herb & Potato Omelette",
+    "recipeImage": "https://images.unsplash.com/photo-1510693206972-df098062cb71?w=800&auto=format&fit=crop",
+    "cookTime": 15,
+    "date": "2026-09-24",
+    "mealType": "breakfast",
+    "calories": 380,
+    "createdAt": "2026-09-24T09:04:01.513Z",
+    "updatedAt": "2026-09-24T09:04:01.513Z"
+  }
+]

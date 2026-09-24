@@ -1,0 +1,15 @@
+[
+  {
+    "_id": "user_chef_roshan",
+    "name": "Chef Roshan",
+    "email": "roshaningershalvr@gmail.com",
+    "password": "$2b$10$jc9C20e7/2Hoio7Ed22DHuNUqy6TKidItLLnWRRzIpw9Nh47TU9G6",
+    "profileImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&auto=format&fit=crop",
+    "dietaryPreferences": [
+      "High-Protein",
+      "Low-Sodium"
+    ],
+    "createdAt": "2026-09-24T09:04:01.502Z",
+    "updatedAt": "2026-09-24T09:04:01.502Z"
+  }
+]
